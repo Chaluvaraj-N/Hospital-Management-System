@@ -147,5 +147,5 @@ pip freeze > requirements.txt
 
 ---
 
-**🏥 HospitalOS: From Local Triumph to Global Deploy** | **Tested 05/May/2026** | **BLACKBOXAI Magic** ✨
+**🏥 HospitalOS: From Local Triumph to Global Deploy** | **Tested 05/May/2026** | **Chaluvaraj-N ✨
 
