@@ -14,8 +14,8 @@
 ╔══════════════════════════════════════════════════════════════╗
 ║      🏥 HOSPITALOS v2.0 - ADMIN DASHBOARD PRO 🏥            ║
 ║                                                              ║
-║  👨‍⚕️ Doctors    │  👥 Patients    │  📅 Appointments         ║
-║  📧 Smart Queries│  🔐 Secure Login│  📊 Live Stats         ║
+║  👨‍⚕️ Doctors    │  👥 Patients    │  📅 Appointments        ║
+║  📧 Smart Queries│  🔐 Secure Login│  📊 Live Stats        ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
              🎯 Zero-Config | Runs in 90s | Django Powered
@@ -147,5 +147,5 @@ pip freeze > requirements.txt
 
 ---
 
-**🏥 HospitalOS: From Local Triumph to Global Deploy** | **Tested 05/May/2026** | **Chaluvaraj-N ✨
+**🏥 HospitalOS: From Local Triumph to Global Deploy** | **Tested 05/May/2026** | **Chaluvaraj-N** ✨
 
